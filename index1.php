@@ -40,5 +40,6 @@ echo "$wielokrotnosci $pierwsze $sumy";
 fclose($file);
 
     ?>
+zmiany zmiany zmiany
 </body>
 </html>
